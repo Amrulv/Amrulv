@@ -18,13 +18,9 @@
 
 I build digital experiences that combine thoughtful design, clean code, and a little bit of delightful chaos.
 
-- 🎓 Software Engineering (Hons.) student at **Universiti Sains Malaysia**, expected 2027
-- 💼 Currently a **Software Engineering Intern @ Intech Art**, shipping full-stack web apps, automation tests, and internal tooling
-- 🌱 Started coding at 18 *(later than most)* — and it stuck
-- 🎯 Focused on products that feel intuitive, look polished, and hold up under real use — with an eye on performance, accessibility, and the small details
-- ⚽ Liverpool fan through and through **(YNWA)**
-- 🎧 Music junkie, sports lover, and someone who takes switching off just as seriously as shipping code
-- 💬 *"software engineer by degree, detective by debugging"*
+- Software Engineering (Hons.) student at **Universiti Sains Malaysia**, expected 2027
+- Currently a **Software Engineering Intern @ Intech Art**, shipping full-stack web apps, automation tests, and internal tooling
+- Focused on products that feel intuitive, look polished, and hold up under real use — with an eye on performance, accessibility, and the small details
 
 ---
 
@@ -94,33 +90,8 @@ I build digital experiences that combine thoughtful design, clean code, and a li
 
 ---
 
-### `$ cat leadership.log`
-
-For two years I served **Majlis Penghuni Desasiswa Indah Kembara (MPDIK)**, my residential college's welfare body — starting as **Welfare Exco**, ending as **Assistant Secretary**, one of the organisation's highest posts. Along the way I ran agendas, official documents, and event coordination, and helped steer the **I-Care Program**, which built connections with the disabled community.
-
-> "leadership is not defined by a title, but by how you show up for the people around you."
-
----
-
-### `$ ./stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amrulv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amrul's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=amrulv&theme=tokyonight&hide_border=true" alt="Amrul's GitHub streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrulv&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-
-</div>
-
----
-
 <div align="center">
 
 **designed & built by Amrulv** 💙
-
-<sub>`$ sudo hire amrul` — KERNEL PANIC: too much talent detected 🫠</sub>
-
-![Profile views](https://komarev.com/ghpvc/?username=amrulv&color=5b8def&style=flat-square&label=profile+views)
 
 </div>
