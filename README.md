@@ -3,10 +3,10 @@
 # Hi, I'm Amrul 👋
 
 <a href="https://visit-penang-sepia.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5B8DEF&center=true&vCenter=true&width=600&lines=full-stack+developer;software+engineering+student;ui%2Fux+enthusiast;liverpool+fan+(YNWA);i+don't+chase+people%2C+i+chase+missing+semicolons" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5B8DEF&center=true&vCenter=true&width=600&lines=full-stack+developer;software+engineering+student;ui%2Fux+enthusiast;liverpool+fan+(YNWA)" alt="Typing SVG" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amrulv.github.io%2FV-5B8DEF?style=for-the-badge&logo=vercel&logoColor=white)](https://amrulv.github.io/V/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amrulv.github.io%2FV-5B8DEF?style=for-the-badge&logo=vercel&logoColor=white)](https://amrulv.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amrulv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amrulv)
 [![Email](https://img.shields.io/badge/Email-amrulsuhair37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrulsuhair37@gmail.com)
 
@@ -20,7 +20,7 @@ I build digital experiences that combine thoughtful design, clean code, and a li
 
 - Software Engineering (Hons.) student at **Universiti Sains Malaysia**, expected 2027
 - Currently a **Software Engineering Intern @ Intech Art**, shipping full-stack web apps, automation tests, and internal tooling
-- Focused on products that feel intuitive, look polished, and hold up under real use — with an eye on performance, accessibility, and the small details
+- Focused on products that feel intuitive, look polished, and hold up under real use with an eye on performance, accessibility, and the small details
 
 ---
 
