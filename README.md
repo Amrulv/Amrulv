@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://amrulv.github.io/">
-    <img src="https://raw.githubusercontent.com/Amrulv/V/main/public/logo.png" width="85" alt="Amrul Logo" />
+    <img src="./logo.png" width="85" alt="Amrul Logo" />
   </a>
 
   # Amrul Suhair
