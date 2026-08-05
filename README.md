@@ -27,9 +27,9 @@
 
 > I build digital experiences that combine thoughtful design, clean code, and a little bit of delightful chaos.
 
-* 🎓 **Software Engineering (Hons.)** student at **Universiti Sains Malaysia** *(Expected 2027)*
-* 💼 **Software Engineering Intern @ Intech Art** — shipping full-stack web apps, automation tests, and internal tooling
-* ⚡ Focused on products that feel intuitive, look polished, and hold up under real use with an eye on performance & details
+* **Software Engineering (Hons.)** student at **Universiti Sains Malaysia** *(Expected 2027)*
+* **Software Engineering Intern @ Intech Art** — shipping full-stack web apps, automation tests, and internal tooling
+* Focused on products that feel intuitive, look polished, and hold up under real use with an eye on performance & details
 
 ---
 
@@ -84,15 +84,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrulv&show_icons=true&theme=transparent&title_color=617A8A&text_color=9AB0BD&icon_color=839EB0&border_color=273647&hide_border=false" alt="GitHub Stats" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrulv&layout=compact&theme=transparent&title_color=617A8A&text_color=9AB0BD&icon_color=839EB0&border_color=273647&hide_border=false" alt="Top Languages" width="350" />
-</div>
-
-<br/>
 
 <div align="center">
 
