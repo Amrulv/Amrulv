@@ -52,38 +52,27 @@
 ---
 
 ```text
-┌──(amrulv㉿dev-system)-[~/projects]
-└─$ ls -l --show-featured
+┌──(amrulv㉿dev-system)-[~/activity]
+└─$ ./monitor.sh --watch --pid all
 ```
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏝️ Visit Penang</h4>
-      <p>Interactive tourism website showcasing must-see spots across Penang.</p>
-      <code>React</code> <code>TypeScript</code> <code>Vite</code>
-      <br/><br/>
-      <a href="https://visit-penang-sepia.vercel.app/"><b>🔗 Launch App »</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧵 SeJahit</h4>
-      <p>Cloth-reselling platform for buying and selling pre-loved clothing.</p>
-      <code>React</code> <code>Vite</code> <code>Java Servlet</code> <code>PostgreSQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💰 DuitWise</h4>
-      <p>Budgeting & expense-tracking app with financial literacy learning tools.</p>
-      <code>Flutter</code> <code>Firebase</code> <code>Dart</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ More in progress...</h4>
-      <p>Building experimental full-stack tools and modern web experiences.</p>
-      <em>Check pinned repos below ↓</em>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrulv&theme=github_dark" height="155" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrulv&theme=github_dark" height="155" alt="Top Languages by Repo" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amrulv&theme=github_dark" height="155" alt="Top Languages by Commit" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrulv&theme=github_dark&utcOffset=8" height="155" alt="Productive Time" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrulv&theme=github_dark" height="155" alt="Profile Details" />
+
+</div>
 
 <div align="center">
 
