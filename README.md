@@ -12,7 +12,7 @@
 
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-amrulv.github.io%2FV-617A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://amrulv.github.io/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-amrulv.github.io%2FV-617A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://amrulv.github.io/amrul-portfolio)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-amrulv-131B24?style=for-the-badge&logo=linkedin&logoColor=617A8A)](https://linkedin.com/in/amrulv)
   [![Email](https://img.shields.io/badge/Email-amrulsuhair37%40gmail.com-273647?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrulsuhair37@gmail.com)
 
@@ -76,6 +76,6 @@
 
 <div align="center">
 
-`designed & built by Amrulv` • **[amrulv.github.io](https://amrulv.github.io/)**
+`designed & built by Amrulv` • **[amrulv.github.io](https://amrulv.github.io/amrul-portfolio)**
 
 </div>
